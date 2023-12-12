@@ -1,0 +1,1 @@
+( TG>+0.1 and FFW<=-2.0 or T2=2.3 ) or (DIA2>=1 or (H2O=2 and H1o>1.8)) and hh=2.2 or Tt>3
